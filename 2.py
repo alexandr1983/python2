@@ -7,3 +7,4 @@ for ind, i in enumerate(a, 1):
     print(f"{ind} {i} {type(i)}")
 
 #2
+a = 
